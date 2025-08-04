@@ -1,6 +1,6 @@
 # esphome-tf_luna
-External componentsnfor esphome integration with TF_Luna Lidar sensor
-
+External components for esphome integration with TF_Luna Lidar sensor
+```
 external_components:
   - source:
       type: local
@@ -28,3 +28,4 @@ sensor:
       accuracy_decimals: 0
       device_class: "signal_strength"
       unit_of_measurement: ""
+```
