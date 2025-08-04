@@ -33,3 +33,9 @@ sensor:
 ```
 Always check you have the correct GPIO pinouts:
 https://www.waveshare.com/wiki/TF-Luna_LiDAR_Range_Sensor
+
+I run mine local but you can also refer directly to this repo using the following yaml snippet instead:
+```yaml
+external_components:
+  - source: github://markussher2/esphome-tf_luna
+    components: [tf_luna]
