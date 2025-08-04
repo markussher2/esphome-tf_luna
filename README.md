@@ -1,7 +1,7 @@
 # esphome-tf_luna
 Custom external components for esphome integration with TF_Luna Lidar distance sensor
 
-Example YAML configutation:
+Example esphome YAML configuration:
 ```yaml
 external_components:
   - source:
