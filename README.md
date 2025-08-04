@@ -30,4 +30,4 @@ sensor:
       accuracy_decimals: 0
       device_class: "signal_strength"
       unit_of_measurement: ""
-``
+
