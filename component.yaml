@@ -1,8 +1,0 @@
-name: "tf_luna"
-files:
-  - tf_luna.cpp
-  - tf_luna.h
-  - sensor.py
-  - __init__.py
-dependencies: ["uart"]
-
