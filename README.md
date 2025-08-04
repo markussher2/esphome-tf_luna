@@ -30,4 +30,6 @@ sensor:
       accuracy_decimals: 0
       device_class: "signal_strength"
       unit_of_measurement: ""
-
+```
+Always check you have the correct GPIO pinouts:
+https://www.waveshare.com/wiki/TF-Luna_LiDAR_Range_Sensor
